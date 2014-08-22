@@ -13,6 +13,10 @@ Index
 * [Introduction to PM](#introduction-to-pm)
 * [Learning Bullring Method](#learning-bullring-method)
   * [How to approach this method?](#how-to-approach-this-method)
+  * [How to build up a team?](#how-to-build-up-a-team)
+  * [Jolly team? What is it?](#jolly-team-what-is-it)
+  * [Sounds interesting, now try to convince me that this method is working fine](#sounds-interesting-now-try-to-convince-me-that-this-method-is-working)
+* [Credits & Comments](#credits-&-comments)
 
 
 # Introduction to PM
@@ -245,3 +249,13 @@ Otherwise if you customer is changing requisites you have to collect them and he
 - define a new scheduling for the project, figuring out if the jolly team can take care of this within the expected timeframe or if you are needed any extra day to reach your goal;
 
 I will never deal with economics, but for sure if you will collect new requirements you will have to ask your customer for extra costs for sure...
+
+# Credits & Comments
+
+As mentioned before *Bullring* method is far to be considered perfect, it should be used as a kinda suggestion on how to try to manage a team for a project, it's not a dogma and it's not the mere truth.
+
+And also every team work in a different manner like an organism.
+
+So credits can be shared between all the people I worked with in my past and in the future and that will help me improving this method.
+
+If you want to share your experience, ideas and going on... feel free to do it via issue!
