@@ -4,6 +4,8 @@ Bullring Manifesto
 A modern approach to PM (Project Management) with fixed amount of time for your project.
 1-day project to N-days optimizing process, sharing informations and with some useful R&D timeframes.
 
+![Bullring Manifesto Logo](https://raw.githubusercontent.com/matteocrippa/pm-bullring-manifesto/master/bullring.jpg)
+
 
 Index
 =====================
