@@ -259,3 +259,11 @@ And also every team work in a different manner like an organism.
 So credits can be shared between all the people I worked with in my past and in the future and that will help me improving this method.
 
 If you want to share your experience, ideas and going on... feel free to do it via issue!
+
+
+Donations
+===========================
+
+This work is free of any charge, but if you want to donate for a beer or a coffee feel free to do it!
+
+`Bitcoin: 1BWmKKaDzyvVqNQgZNUWV7rcU91MMqPAXT`
